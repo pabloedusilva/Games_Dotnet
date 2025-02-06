@@ -1,0 +1,28 @@
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.exe
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.deps.json
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.runtimeconfig.json
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.dll
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.pdb
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.AssemblyInfoInputs.cache
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.AssemblyInfo.cs
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.dll
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\refint\BatalhaDosNumeros.dll
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.pdb
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.genruntimeconfig.cache
+C:\Users\Alunos\Pictures\Pablo\Nova pasta (2)\BatalhaDosNumeros\obj\Debug\net8.0\ref\BatalhaDosNumeros.dll
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.exe
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.deps.json
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.runtimeconfig.json
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.dll
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\bin\Debug\net8.0\BatalhaDosNumeros.pdb
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.dll
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\refint\BatalhaDosNumeros.dll
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.pdb
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\BatalhaDosNumeros.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Pablo\ParaMeuCurriculo-main\BatalhaDosNumeros\obj\Debug\net8.0\ref\BatalhaDosNumeros.dll
