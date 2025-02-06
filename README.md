@@ -1,4 +1,4 @@
-# 🕹️ Meus Jogos Criados com C# e .NET
+# 🕹️ Jogos Criados com C# e .NET
 
 Bem-vindo ao repositório onde compartilho meus projetos de jogos desenvolvidos usando C# e .NET! Aqui você encontrará uma coleção de jogos interativos que demonstram minhas habilidades de programação e desenvolvimento de jogos.
 
