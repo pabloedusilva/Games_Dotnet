@@ -25,6 +25,6 @@ Para compilar e rodar o jogo, execute:
 * dotnet run
 
 # 🔧 Aplicativos Utilizados
-C#: Linguagem de programação principal utilizada para o desenvolvimento dos jogos.
-.NET: Framework utilizado para compilar e rodar os jogos.
-Visual Studio Code.
+* C#: Linguagem de programação principal utilizada para o desenvolvimento dos jogos.
+* .NET: Framework utilizado para compilar e rodar os jogos.
+* Visual Studio Code.
